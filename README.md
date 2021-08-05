@@ -1,8 +1,9 @@
----
-typora-copy-images-to: ./
----
 
-![logo](D:\xampp\htdocs\php-wifi\logo.png)
+<div align=center>
+  
+  ![logo](./logo.png)
+  
+</div>
 
 #### 安装
 
@@ -31,5 +32,5 @@ php wifi --scan
 | Scan       | ×     | ×    | ✓       |
 | Info       | ×     | ×    | ✓       |
 | Disconnect | ×     | ×    | ✓       |
-|            |       |      |         |
+
 
