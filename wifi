@@ -1,0 +1,3 @@
+<?php
+require_once('./wifi.php');
+$wifi = new Wifi();
